@@ -117,6 +117,7 @@ footer ul li a:hover {
   text-align: center;
   background-color: #000;
   padding: 40px 0px;
+  margin: 0px;
 }
 
 @media (max-width: 868px) {
@@ -159,10 +160,36 @@ footer ul li a:hover {
   }
 }
 @media (max-width: 555px) {
+  .subcon2{
+    padding: 30px;
+  }
   .subcon2 input {
-    width: 300px;
+    width: 280px;
   }
   #button {
-    width: 300px;
+    width: 280px;
+  }
+}
+@media (max-width: 390px) {
+  .subcon2{
+    padding: 20px;
+  }
+  .subcon2 input {
+    width: 240px;
+  }
+  #button {
+    width: 240px;
+    padding: 10px 30px;
+  }
+}
+@media (max-width: 355px) {
+  .subcon2{
+    padding: 30px;
+  }
+  .subcon2 input {
+    width: 200px;
+  }
+  #button {
+    width: 200px;
   }
 }
