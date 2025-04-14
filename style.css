@@ -16,12 +16,12 @@ header img {
   filter: brightness(50%);
 }
 .scrolling-bar img {
-  margin: 8px 15px;
+  margin: 0px 15px;
 }
 .con1 {
   display: flex;
   background-color: black;
-  margin: 30px;
+  margin:0px 30px 30px 30px;
   padding: 30px 30px 30px 30px;
   border-radius: 40px;
 }

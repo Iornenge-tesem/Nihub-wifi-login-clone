@@ -11,6 +11,3 @@ document.getElementById("button").addEventListener("click", function () {
   }
 });
 
-document.getElementById("button").addEventListener("click", function () {
-    alert("You clicked the OK button!");
-  });
